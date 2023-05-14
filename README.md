@@ -1,4 +1,4 @@
-# E-Bank-appliacation
+# E-Bank-application
 
 ![WhatsApp Image 2023-05-09 at 11 10 34](https://github.com/YogeshWaran2403/E-Bank-appliacation/assets/101354281/a1219b42-f587-4366-9e2d-df81674e652f)
 
